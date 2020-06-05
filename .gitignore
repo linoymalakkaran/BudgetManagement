@@ -1,0 +1,6 @@
+server/node_modules/
+server/npm-debug.*
+server/package-lock.json
+ui/node_modules/
+ui/npm-debug.*
+ui/package-lock.json
